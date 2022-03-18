@@ -1,2 +1,2 @@
 # OSC_Sql
-Modelisation avec Phpmyadmin d'un petit projet qui sera developper avec PHP MVC. 
+Dump Base de donnees sur un petit projet essaie. 
